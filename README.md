@@ -36,7 +36,7 @@ src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="32" /><
 - 📖 I love physics especially about the field of astronomy.
 - 💬 Talk to me about spring boot, java (both of these are not any kind of insect or animals), silicon valley & startups
 - ⚡ Fun fact: Je connais un peu le français
-
+<br>
 <img align="right" alt="GIF" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="500" height="320"/>
 
 ## :computer: Technologies I Love
