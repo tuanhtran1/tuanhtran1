@@ -39,14 +39,14 @@ src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="32" /><
 
 <img align="right" alt="GIF" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="500" height="320"/>
 
-## :computer: Technologies I Love
+## :rocket: Technologies I Love
 * Spring FrameWork ( Spring Data JPA, Spring Security,...)
 * Java ee, j2ee, jarkartar ee
 * Machine Learning
 * Data Science
 * Backend Web Development
 
-## Languages and Tools
+## :computer: Languages and Tools:
 <p ">
       <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40"/> 
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40"/>
@@ -62,7 +62,7 @@ tuanhtran1/tuanhtran1 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-<h2>📊 Weekly development breakdown: </h2>
+## 📊 Weekly development breakdown: 
 
 
 ```text
