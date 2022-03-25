@@ -2,7 +2,7 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/tuanhtran1" target="_blank">TuAnhTran</a> <img
 src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="32" /></h1>
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
 
 ### 📬 Find me at
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Defcon27/)](https://github.com/tuanhtran1/) 
@@ -12,6 +12,8 @@ src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="32" /><
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:defcon.bingbang004@gmail.com)](mailto:bingbang004@gmail.com)
 [![GeeksforGeeks Badge](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat-square&logo=GeeksforGeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/tuanhtran1/articles)](https://auth.geeksforgeeks.org/user/tuanhtran1/articles)
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
+
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
 - 🏦 I am a final year student majoring in Software Technology at the Institute of Post and Telecommunications Technology
