@@ -2,8 +2,6 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/tuanhtran1" target="_blank">TuAnhTran</a> <img
 src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="32" /></h1>
 
-
-
 ### 📬 Find me at
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Defcon27/)](https://github.com/tuanhtran1/) 
 [![GitHub followers](https://img.shields.io/github/followers/tuanhtran1?label=Follow&style=social)](https://github.com/tuanhtran1/?tab=follow) 
@@ -13,9 +11,11 @@ src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="32" /><
 [![GeeksforGeeks Badge](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat-square&logo=GeeksforGeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/tuanhtran1/articles)](https://auth.geeksforgeeks.org/user/tuanhtran1/articles)
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
 - 🏦 I am a final year student majoring in Software Technology at the Institute of Post and Telecommunications Technology
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 👀 I’m interested in Spring MVC, Spring Boot, Socket/Client, Webservice,...
@@ -25,9 +25,13 @@ src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="32" /><
 - 💬 Talk to me about spring boot, java (both of these are not any kind of insect or animals), silicon valley & startups
 - ⚡ Fun fact: Je connais un peu le français
 
-<img align="right" alt="GIF" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="500" height="320"/>
+
+<br>
 
 ## :rocket: Technologies I Love
+
+<img align="right" alt="GIF" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="500" height="320"/>
+
 * Spring FrameWork ( Spring Data JPA, Spring Security,...)
 * Java ee, j2ee, jarkartar ee
 * Machine Learning
