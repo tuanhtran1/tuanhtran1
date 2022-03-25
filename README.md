@@ -14,7 +14,7 @@ src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="32" /><
 
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="480" height="300" />
 
 - 🏦 I am a final year student majoring in Software Technology at the Institute of Post and Telecommunications Technology
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
@@ -24,19 +24,19 @@ src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="32" /><
 - 📖 I love physics especially about the field of astronomy.
 - 💬 Talk to me about spring boot, java (both of these are not any kind of insect or animals), silicon valley & startups
 - ⚡ Fun fact: Je connais un peu le français
-
-
 <br>
 
 ## :rocket: Technologies I Love
 
-<img align="right" alt="GIF" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="500" height="320"/>
+<img align="right" alt="GIF" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="480-" height="400"/>
 
 * Spring FrameWork ( Spring Data JPA, Spring Security,...)
 * Java ee, j2ee, jarkartar ee
 * Machine Learning
 * Data Science
 * Backend Web Development
+
+<br>
 
 ## :computer: Languages and Tools:
 <p ">
@@ -47,7 +47,7 @@ src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="32" /><
       <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="eastic" width="40" />
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" />
 </p>
-
+<br>
 
 <!---
 tuanhtran1/tuanhtran1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
