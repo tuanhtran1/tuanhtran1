@@ -38,7 +38,7 @@ src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="32" /><
 
 <br>
 
-## :computer: Languages and Tools:
+## :computer: Languages and Tools
 <p ">
       <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40"/> 
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40"/>
@@ -54,7 +54,7 @@ tuanhtran1/tuanhtran1 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-## 📊 Weekly development breakdown: 
+## 📊 Weekly development breakdown
 
 
 ```text
