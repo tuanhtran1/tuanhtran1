@@ -46,6 +46,9 @@ src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="32" /><
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="40" /> 
       <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="eastic" width="40" />
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" />
+      <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="Cpp" width="40"/>
+      <img src="https://camo.githubusercontent.com/8de346520f7417f6602ca239b7d91232b4e99f8d4aa4e53dcd3896e7b8416c4d/68747470733a2f2f7974332e67677068742e636f6d2f5f713532693862554145766362374a5234652d654e547632337932415f77673573437a304e43304772477463773143524d574a534f5056485544685f626e6744307134674d7656656f413d733930302d632d6b2d63307830306666666666662d6e6f2d726a" alt="Vscode" width="40"/>
+       <img src="https://camo.githubusercontent.com/73a4b318dbde04e6f1941e1472dc85a6c311cfffb92746ed1f30761837639a21/68747470733a2f2f736861726570726f6772616d6d696e672e6e65742f77702d636f6e74656e742f75706c6f6164732f323032312f30322f6b697373706e672d65636c697073652d636f6d70757465722d69636f6e732d696e74656772617465642d646576656c6f706d656e742d656e76692d65636c697073652d35616335333165303261373766302e3135373438383435313532323837323830303137342e6a7067" alt="Eclipse" width="40"/>
 </p>
 <br>
 
