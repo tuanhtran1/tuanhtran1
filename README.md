@@ -71,7 +71,7 @@ Text           6 mins              ░░░░░░░░░░     1.57%
 ```
 
 <p align="right">Thank you for visiting</p>
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
+<a href="https://www.linkedin.com/in/tu-tran-071b26236/">
   <img align="right" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/tu.anhtran/">
