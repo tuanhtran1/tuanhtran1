@@ -1,6 +1,5 @@
 
 <h1 align="center">Hi there, I'm <a href="https://github.com/tuanhtran1" target="_blank">TuAnhTran</a> <img
-src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="32" /></h1>
 
 ### 📬 Find me at
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Defcon27/)](https://github.com/tuanhtran1/) 
