@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi there, I'm <a href="https://github.com/tuanhtran1" target="_blank">TuAnhTran</a> <img
+<h1 align="center">Hi there, I'm <a href="https://github.com/tuanhtran1" target="_blank">TuAnhTran</a>
 
 ### 📬 Find me at
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Defcon27/)](https://github.com/tuanhtran1/) 
