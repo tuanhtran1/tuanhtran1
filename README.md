@@ -70,7 +70,7 @@ Text           6 mins              ░░░░░░░░░░     1.57%
 ```
 
 <p align="right">Thank you for visiting</p>
-<a href="https://linkedin.com/in/tuuanhtran1">
+<!-- <a href="https://linkedin.com/in/tuuanhtran1">
   <img align="right" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://instagram.com/tu.anhtran/">
@@ -81,5 +81,5 @@ Text           6 mins              ░░░░░░░░░░     1.57%
 </a>
 <a href="">
   <img align="right" alt="Tuanhtran | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
+</a> -->
 
