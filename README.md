@@ -70,10 +70,10 @@ Text           6 mins              ░░░░░░░░░░     1.57%
 ```
 
 <p align="right">Thank you for visiting</p>
-<a href="www.linkedin.com/in/tuuanhtran1">
+<a href="https://linkedin.com/in/tuuanhtran1">
   <img align="right" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/tu.anhtran/">
+<a href="https://instagram.com/tu.anhtran/">
   <img align="right" alt="Tuanhtran's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="">
