@@ -15,8 +15,6 @@
 ## About Me
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="480" height="320" />
 
-- 🏦 I am a final year student majoring in Software Technology at the Institute of Post and Telecommunications Technology
-      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 👀 I’m interested in Spring MVC, Spring Boot, Socket/Client, Webservice,...
 - 🌱 I’m currently learning HTML, CSS, JavaScript, Java,...
 - 💻 I use daily **.js**, **.java**, **.sql**
